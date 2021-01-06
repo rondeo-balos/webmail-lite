@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Settings xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 	<Common>
-		<SiteName>AfterLogic WebMail Lite</SiteName>
+		<SiteName>Webmail Lite</SiteName>
 		<LicenseKey />
 		<AdminLogin>mailadm</AdminLogin>
 		<AdminPassword></AdminPassword>
@@ -20,8 +20,8 @@
 		<DefaultTimeZone>0</DefaultTimeZone>
 		<DefaultTimeFormat>F12</DefaultTimeFormat>
 		<DefaultDateFormat>MM/DD/YYYY</DefaultDateFormat>
-		<AllowRegistration>Off</AllowRegistration>
-		<AllowPasswordReset>Off</AllowPasswordReset>
+		<AllowRegistration>On</AllowRegistration>
+		<AllowPasswordReset>On</AllowPasswordReset>
 		<EnableLogging>Off</EnableLogging>
 		<EnableEventLogging>Off</EnableEventLogging>
 		<LoggingLevel>Full</LoggingLevel>
@@ -43,7 +43,7 @@
 		<UserQuota>0</UserQuota>
 		<ShowQuotaBar>On</ShowQuotaBar>
 		<AutoCheckMailInterval>1</AutoCheckMailInterval>
-		<DefaultSkin>AfterLogic</DefaultSkin>
+		<DefaultSkin>OpenWater</DefaultSkin>
 		<MailsPerPage>20</MailsPerPage>
 		<AllowUsersChangeInterfaceSettings>On</AllowUsersChangeInterfaceSettings>
 		<AllowUsersChangeEmailSettings>Off</AllowUsersChangeEmailSettings>
